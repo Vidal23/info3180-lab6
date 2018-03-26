@@ -2,6 +2,34 @@ body {
     padding-top: 5rem;
 }
 
+h2{
+    text-align: center;
+}
+
+.home{
+    text-align: center;
+}
 footer  {
     padding-top: 20px;
+}
+.news__item{
+    list-style: none;
+  
+    
+}
+
+.news__item_body{
+     border: 1px solid #ccc;
+    border-top: 2px solid blue;
+    border-radius: 4px;
+    box-shadow: 0px 2px 2px #ccc;
+}
+.news__item img{
+    border-radius: 0;
+}
+.news__item p{
+    font-size: 0.75rem;
+}
+.card{
+    
 }
